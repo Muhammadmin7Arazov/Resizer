@@ -1,0 +1,17 @@
+.entry-content {
+    font-family: 'IRANSans', 'Vazir', sans-serif; /* Fars dilinə uyğun fontlar */
+    direction: rtl; /* Sağdan sola yazı sistemi */
+    line-height: 1.6; /* Sətir aralığı */
+    word-spacing: normal; /* Söz aralığını tənzimləyin */
+    letter-spacing: normal; /* Hərf aralığını tənzimləyin */
+}
+
+/* Düymələr üçün sadə stil */
+#btn-increase_wp_font_rp,
+#btn-decrease_wp_font_rp,
+#btn-orig_wp_font_rp {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 16px;
+}
